@@ -1,0 +1,89 @@
+Press button to tare force sensor...
+Force Sensor Tared...
+Tare reading...:  0.2
+Calibration Factor: -1123
+Flip switch to begin program... 
+
+	| step size: 	10	| step direction: 	down
+	| one reading:	4.9
+	| one reading:	9.5
+	| one reading:	14.2
+	| one reading:	18.7
+	| one reading:	23.3
+	| one reading:	27.9
+	| one reading:	32.8
+	| one reading:	37.6
+	| one reading:	42.3
+	| one reading:	47.3
+	| one reading:	52.3
+	| one reading:	57.2
+	| one reading:	62.4
+	| one reading:	67.4
+	| one reading:	72.5
+	| one reading:	77.8
+	| one reading:	83.2
+	| one reading:	88.4
+	| one reading:	93.4
+	| one reading:	98.4
+	| one reading:	103.0
+	| one reading:	107.9
+	| one reading:	112.1
+	| one reading:	116.6
+	| one reading:	121.2
+	| one reading:	125.7
+	| one reading:	130.1
+	| one reading:	134.7
+	| one reading:	139.5
+	| one reading:	144.7
+	| one reading:	149.7
+	| one reading:	155.1
+	| one reading:	160.2
+	| one reading:	165.2
+	| one reading:	170.2
+	| one reading:	175.3
+	| one reading:	180.7
+	| one reading:	185.9
+	| one reading:	191.2
+	| one reading:	196.2
+| step size: 	10	| step direction: 	up
+	| one reading:	191.4
+	| one reading:	186.4
+	| one reading:	181.3
+	| one reading:	176.1
+	| one reading:	170.6
+	| one reading:	165.3
+	| one reading:	160.2
+	| one reading:	154.8
+	| one reading:	149.6
+	| one reading:	144.4
+	| one reading:	139.1
+	| one reading:	134.4
+	| one reading:	129.5
+	| one reading:	124.8
+	| one reading:	120.2
+	| one reading:	115.4
+	| one reading:	110.5
+	| one reading:	105.8
+	| one reading:	101.6
+	| one reading:	97.2
+	| one reading:	92.3
+	| one reading:	87.2
+	| one reading:	82.6
+	| one reading:	77.6
+	| one reading:	72.6
+	| one reading:	67.3
+	| one reading:	62.6
+	| one reading:	57.4
+	| one reading:	52.5
+	| one reading:	47.4
+	| one reading:	42.1
+	| one reading:	36.9
+	| one reading:	32.6
+	| one reading:	27.9
+	| one reading:	23.1
+	| one reading:	18.8
+	| one reading:	14.3
+	| one reading:	9.8
+	| one reading:	4.8
+	| one reading:	0.4
+
