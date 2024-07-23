@@ -1,4 +1,4 @@
-
+calibration factor = 1123
 	| step size: 	10	| step direction: 	down
 	| one reading: 	-0.1
 	| one reading: 	-0.3
@@ -51,7 +51,7 @@
 	| one reading: 	-42.3
 	| one reading: 	-43.2
 
-	| step size: 	10	| step direction: 	up
+	| step size: 	10	| step direction: 	down
 	| one reading:	-45.7
 	| one reading:	-46.8
 	| one reading:	-47.3
@@ -155,7 +155,7 @@
 	| one reading: 	-167.6
 	| one reading: 	-169.9
 
-	| step size: 	10	| step direction: 	up
+	| step size: 	10	| step direction: 	down
 	| one reading:	-170.0
 	| one reading:	-171.8
 	| one reading:	-174.3
